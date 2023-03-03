@@ -1,0 +1,13 @@
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\bin\Debug\QuizProgram.exe
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\bin\Debug\QuizProgram.pdb
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\bin\Debug\QuizProgram.xml
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\QuizProgram.q_frm.resources
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\QuizProgram.Resources.resources
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\QuizProgram.vbproj.GenerateResource.Cache
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\QuizProgram.exe
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\QuizProgram.xml
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\QuizProgram.pdb
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\QuizProgram.Score.resources
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\QuizProgram.login.resources
+C:\Users\CDSGA\Documents\Visual Studio 2008\Projects\QuizProgram\QuizProgram\obj\Debug\QuizProgram.stud_log_frm.resources

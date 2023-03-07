@@ -1524,7 +1524,7 @@ Partial Class q_frm
         Me.lb_count.Name = "lb_count"
         Me.lb_count.Size = New System.Drawing.Size(40, 23)
         Me.lb_count.TabIndex = 5
-        Me.lb_count.Text = "300"
+        Me.lb_count.Text = "00:00"
         '
         'Label5
         '

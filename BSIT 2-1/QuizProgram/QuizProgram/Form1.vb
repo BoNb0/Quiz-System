@@ -17,7 +17,7 @@ Public Class q_frm
             p1.Enabled = False
             'eto ung ginawa ko para maayos ung 00:00 format'
         ElseIf Tspan.Seconds < 10 Then
-            lb_count.Text = String.Format("0{0}:0{1} ", Tspan.Minutes, Tspan.Seconds)
+            lb_count.Text = String.Format("{0}:0{1} ", Tspan.Minutes, Tspan.Seconds)
         ElseIf Tspan.Minutes < 10 Then
             lb_count.Text = String.Format("0{0}:{1} ", Tspan.Minutes, Tspan.Seconds)
         End If
